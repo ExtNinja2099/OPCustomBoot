@@ -1,7 +1,7 @@
 <h1 align="center">Custom OnePlus Bootanimation</h1>
 
 <div align="center">
-  <!-- Blue OOS 12 Version -->
+  <!-- BlueOOS12Version -->
     <img src="https://img.shields.io/badge/Version-v1.8-blue.svg?longCache=true&style=popout-square"
       alt="Version" />
   <!-- Stock OOS 12 Version -->
