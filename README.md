@@ -30,3 +30,6 @@
     </a>
   </h3>
 </div>
+
+## Credits
+- @ZackPtg5 for MMT-Extended Template
