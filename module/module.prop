@@ -1,7 +1,0 @@
-id=opblue_boot
-name=OnePlus Blue Boot
-version=v1.8
-versionCode=5
-author=Extreme_Ninja2099
-description=Systemlessly replaces your default bootanimation to blue OnePlus bootanimation.
-updateJson=https://raw.githubusercontent.com/ExtNinja2099/OPCustomBoot/master/update.json
