@@ -18,7 +18,7 @@
       alt="_time_stamp_" /></div>
 
 <div align="center">
-  <strong>This mdoule changes bootanimation on AOSP ROMs. Instructions in the 
+  <strong>This Magisk module changes bootanimation on AOSP ROMs.  
     <h3><a href="https://github.com/ExtNinja2099/OPCustomBoot/wiki">Wiki</a></h3>
 </div>
 
