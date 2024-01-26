@@ -37,6 +37,8 @@ REPLACE_EXAMPLE="
 # Construct your own list here
 REPLACE="
 "
+ui_print "- Replacing Bootanimation ✅"
+ui_print "- By Extreme_Ninja2099 "
 
 ##########################################################################################
 # Permissions
