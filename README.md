@@ -13,6 +13,9 @@
 
 <div align="center">
   <strong>This Magisk module changes bootanimation on AOSP ROMs.  
+</div>
+<div align="center">
+  <strong>Bootanimation size is based on OnePlus 8 Pro.  
     <h3><a href="https://github.com/ExtNinja2099/OPCustomBoot/wiki">Wiki</a></h3>
 </div>
 
@@ -27,3 +30,6 @@
     </a>
   </h3>
 </div>
+
+## Credits
+- @ZackPtg5 for MMT-Extended Template

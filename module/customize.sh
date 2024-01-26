@@ -36,9 +36,8 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
+/system/product/media/bootanimation.zip
 "
-ui_print "- Replacing Bootanimation ✅"
-ui_print "- By Extreme_Ninja2099 "
 
 ##########################################################################################
 # Permissions
