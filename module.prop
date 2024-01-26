@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.5
-versionCode=17
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=opblue_boot
+name=OnePlus Blue Boot
+version=v1.8
+versionCode=5
+author=Extreme_Ninja2099
+description=Systemlessly replaces your default bootanimation to blue OnePlus bootanimation.
+updateJson=https://raw.githubusercontent.com/ExtNinja2099/OPCustomBoot/master/update.json
