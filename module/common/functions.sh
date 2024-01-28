@@ -152,7 +152,7 @@ ui_print "*  OnePlus OOS12 Blue bootanimation  *"
 ui_print "*  By Extreme_Ninja2099              *"
 ui_print "**************************************"
 ui_print " "
-ui_print "* Replacing Bootanimation ✅"
+ui_print "- Replacing Bootanimation ✅"
 
 # Check for min/max api version
 [ -z $MINAPI ] || { [ $API -lt $MINAPI ] && abort "! Your system API of $API is less than the minimum api of $MINAPI! Aborting!"; }
